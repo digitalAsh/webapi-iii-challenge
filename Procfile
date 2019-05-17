@@ -1,1 +1,1 @@
-web: node index.js --prefix start 
+web: node index.js 
